@@ -8,7 +8,9 @@
 			"email": "robin@icewind.nl"
 		}
 	],
-	"require"    : {},
+	"require"    : {
+		"php": ">=5.5.0"
+	},
 	"require-dev": {
 		"phpunit/phpunit": "4.3.*"
 	},
